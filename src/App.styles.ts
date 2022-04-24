@@ -8,9 +8,9 @@ export const Container = styled.div`
 
 
 export const Map = styled.div`
-    width: 480px;
-    height: 480px;
-    background-image: url('./assets/map.png');
+    width: 1920px;
+    height: 960px;
+    background-image: url('./assets/rpg-map.png');
     backgorund-position: center;
     background-size: 100%;
 `;

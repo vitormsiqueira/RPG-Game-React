@@ -4,7 +4,7 @@ import { mapSpots } from '../data/mapSpots';
 
 export const useCharacter = () =>{
     // Posição inicial do personagem
-    const [pos, setPos] = useState({x: 7, y: 11});
+    const [pos, setPos] = useState({x: 11, y: 2});
     // Muda o lado da imagem do personagem
     const [side, setSide] = useState<CharacterSides>('down');
 
